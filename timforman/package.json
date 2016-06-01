@@ -1,0 +1,27 @@
+{
+  "name": "simple_modular_and_test_patterns",
+  "version": "1.0.0",
+  "description": "Class 1 assignment",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T4Man/simple_modular_and_test_patterns.git"
+  },
+  "author": "timforman <timothywforman@gmail.com> (https://salty-brook-43242.herokuapp.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/T4Man/simple_modular_and_test_patterns/issues"
+  },
+  "homepage": "https://github.com/T4Man/simple_modular_and_test_patterns#readme",
+  "devDependencies": {
+    "mocha": "2.4.5",
+    "chai": "3.5.0"
+
+  }
+}
